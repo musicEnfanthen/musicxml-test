@@ -1,0 +1,1508 @@
+Shape articulation 20:
+ - not exported to uncompressed file at entry 6603 in part P1, measure 261
+ - not exported to uncompressed file at entry 6821 in part P1, measure 269
+ - not exported to uncompressed file at entry 6875 in part P1, measure 273
+ - not exported to uncompressed file at entry 8419 in part P1, measure 343
+ - not exported to uncompressed file at entry 8527 in part P1, measure 346
+ - not exported to uncompressed file at entry 10115 in part P1, measure 433
+ - not exported to uncompressed file at entry 10148 in part P1, measure 439
+ - not exported to uncompressed file at entry 10180 in part P1, measure 446
+ - not exported to uncompressed file at entry 5491 in part P2, measure 193
+ - not exported to uncompressed file at entry 5792 in part P2, measure 224
+ - not exported to uncompressed file at entry 5822 in part P2, measure 228
+ - not exported to uncompressed file at entry 6379 in part P2, measure 251
+ - not exported to uncompressed file at entry 6401 in part P2, measure 252
+ - not exported to uncompressed file at entry 6445 in part P2, measure 254
+ - not exported to uncompressed file at entry 6465 in part P2, measure 255
+ - not exported to uncompressed file at entry 6469 in part P2, measure 255
+ - not exported to uncompressed file at entry 6473 in part P2, measure 255
+ - not exported to uncompressed file at entry 6486 in part P2, measure 256
+ - not exported to uncompressed file at entry 6506 in part P2, measure 257
+ - not exported to uncompressed file at entry 6513 in part P2, measure 257
+ - not exported to uncompressed file at entry 6522 in part P2, measure 257
+ - not exported to uncompressed file at entry 6540 in part P2, measure 258
+ - not exported to uncompressed file at entry 6581 in part P2, measure 260
+ - not exported to uncompressed file at entry 6589 in part P2, measure 260
+ - not exported to uncompressed file at entry 6597 in part P2, measure 260
+ - not exported to uncompressed file at entry 6619 in part P2, measure 261
+ - not exported to uncompressed file at entry 6626 in part P2, measure 261
+ - not exported to uncompressed file at entry 6640 in part P2, measure 262
+ - not exported to uncompressed file at entry 6716 in part P2, measure 265
+ - not exported to uncompressed file at entry 6732 in part P2, measure 265
+ - not exported to uncompressed file at entry 6750 in part P2, measure 266
+ - not exported to uncompressed file at entry 6763 in part P2, measure 267
+ - not exported to uncompressed file at entry 6770 in part P2, measure 267
+ - not exported to uncompressed file at entry 6793 in part P2, measure 267
+ - not exported to uncompressed file at entry 6805 in part P2, measure 268
+ - not exported to uncompressed file at entry 6843 in part P2, measure 270
+ - not exported to uncompressed file at entry 6856 in part P2, measure 271
+ - not exported to uncompressed file at entry 6865 in part P2, measure 272
+ - not exported to uncompressed file at entry 6868 in part P2, measure 272
+ - not exported to uncompressed file at entry 6871 in part P2, measure 272
+ - not exported to uncompressed file at entry 6889 in part P2, measure 274
+ - not exported to uncompressed file at entry 6894 in part P2, measure 274
+ - not exported to uncompressed file at entry 6905 in part P2, measure 275
+ - not exported to uncompressed file at entry 6913 in part P2, measure 276
+ - not exported to uncompressed file at entry 6931 in part P2, measure 277
+ - not exported to uncompressed file at entry 6944 in part P2, measure 278
+ - not exported to uncompressed file at entry 6954 in part P2, measure 279
+ - not exported to uncompressed file at entry 6978 in part P2, measure 281
+ - not exported to uncompressed file at entry 6995 in part P2, measure 282
+ - not exported to uncompressed file at entry 7018 in part P2, measure 284
+ - not exported to uncompressed file at entry 7020 in part P2, measure 284
+ - not exported to uncompressed file at entry 7035 in part P2, measure 285
+ - not exported to uncompressed file at entry 7038 in part P2, measure 285
+ - not exported to uncompressed file at entry 7040 in part P2, measure 285
+ - not exported to uncompressed file at entry 7044 in part P2, measure 285
+ - not exported to uncompressed file at entry 7058 in part P2, measure 286
+ - not exported to uncompressed file at entry 7060 in part P2, measure 286
+ - not exported to uncompressed file at entry 7068 in part P2, measure 287
+ - not exported to uncompressed file at entry 7073 in part P2, measure 287
+ - not exported to uncompressed file at entry 7084 in part P2, measure 288
+ - not exported to uncompressed file at entry 7094 in part P2, measure 289
+ - not exported to uncompressed file at entry 7099 in part P2, measure 289
+ - not exported to uncompressed file at entry 7105 in part P2, measure 289
+ - not exported to uncompressed file at entry 7134 in part P2, measure 291
+ - not exported to uncompressed file at entry 7145 in part P2, measure 292
+ - not exported to uncompressed file at entry 7162 in part P2, measure 294
+ - not exported to uncompressed file at entry 7217 in part P2, measure 295
+ - not exported to uncompressed file at entry 7188 in part P2, measure 296
+ - not exported to uncompressed file at entry 7317 in part P2, measure X36
+ - not exported to uncompressed file at entry 7321 in part P2, measure X36
+ - not exported to uncompressed file at entry 7331 in part P2, measure 298
+ - not exported to uncompressed file at entry 7338 in part P2, measure 299
+ - not exported to uncompressed file at entry 7348 in part P2, measure 300
+ - not exported to uncompressed file at entry 7352 in part P2, measure 300
+ - not exported to uncompressed file at entry 7358 in part P2, measure 300
+ - not exported to uncompressed file at entry 7365 in part P2, measure 301
+ - not exported to uncompressed file at entry 7367 in part P2, measure 301
+ - not exported to uncompressed file at entry 7378 in part P2, measure 302
+ - not exported to uncompressed file at entry 7382 in part P2, measure 302
+ - not exported to uncompressed file at entry 7556 in part P2, measure 310
+ - not exported to uncompressed file at entry 7579 in part P2, measure 312
+ - not exported to uncompressed file at entry 7583 in part P2, measure 312
+ - not exported to uncompressed file at entry 7593 in part P2, measure 313
+ - not exported to uncompressed file at entry 7607 in part P2, measure 314
+ - not exported to uncompressed file at entry 7678 in part P2, measure 317
+ - not exported to uncompressed file at entry 7704 in part P2, measure 318
+ - not exported to uncompressed file at entry 7736 in part P2, measure 319
+ - not exported to uncompressed file at entry 7759 in part P2, measure 321
+ - not exported to uncompressed file at entry 7763 in part P2, measure 321
+ - not exported to uncompressed file at entry 7771 in part P2, measure 322
+ - not exported to uncompressed file at entry 7789 in part P2, measure 323
+ - not exported to uncompressed file at entry 7792 in part P2, measure 323
+ - not exported to uncompressed file at entry 7891 in part P2, measure X37
+ - not exported to uncompressed file at entry 7898 in part P2, measure X37
+ - not exported to uncompressed file at entry 7960 in part P2, measure 328
+ - not exported to uncompressed file at entry 7962 in part P2, measure 328
+ - not exported to uncompressed file at entry 7991 in part P2, measure 329
+ - not exported to uncompressed file at entry 7999 in part P2, measure 329
+ - not exported to uncompressed file at entry 8003 in part P2, measure 329
+ - not exported to uncompressed file at entry 8005 in part P2, measure 329
+ - not exported to uncompressed file at entry 8007 in part P2, measure 329
+ - not exported to uncompressed file at entry 8025 in part P2, measure 330
+ - not exported to uncompressed file at entry 8033 in part P2, measure 330
+ - not exported to uncompressed file at entry 8038 in part P2, measure 330
+ - not exported to uncompressed file at entry 8053 in part P2, measure 331
+ - not exported to uncompressed file at entry 8065 in part P2, measure 331
+ - not exported to uncompressed file at entry 8078 in part P2, measure 332
+ - not exported to uncompressed file at entry 8081 in part P2, measure 332
+ - not exported to uncompressed file at entry 8134 in part P2, measure 334
+ - not exported to uncompressed file at entry 8137 in part P2, measure 334
+ - not exported to uncompressed file at entry 8144 in part P2, measure 334
+ - not exported to uncompressed file at entry 8166 in part P2, measure 335
+ - not exported to uncompressed file at entry 8189 in part P2, measure 336
+ - not exported to uncompressed file at entry 8194 in part P2, measure 336
+ - not exported to uncompressed file at entry 8208 in part P2, measure 336
+ - not exported to uncompressed file at entry 8228 in part P2, measure 337
+ - not exported to uncompressed file at entry 8232 in part P2, measure 337
+ - not exported to uncompressed file at entry 8238 in part P2, measure 337
+ - not exported to uncompressed file at entry 8245 in part P2, measure 337
+ - not exported to uncompressed file at entry 8250 in part P2, measure 337
+ - not exported to uncompressed file at entry 8270 in part P2, measure 338
+ - not exported to uncompressed file at entry 8276 in part P2, measure 338
+ - not exported to uncompressed file at entry 8279 in part P2, measure 338
+ - not exported to uncompressed file at entry 8776 in part P2, measure 338
+ - not exported to uncompressed file at entry 8778 in part P2, measure 338
+ - not exported to uncompressed file at entry 8290 in part P2, measure 338
+ - not exported to uncompressed file at entry 8305 in part P2, measure 339
+ - not exported to uncompressed file at entry 8308 in part P2, measure 339
+ - not exported to uncompressed file at entry 8315 in part P2, measure 339
+ - not exported to uncompressed file at entry 8317 in part P2, measure 339
+ - not exported to uncompressed file at entry 8321 in part P2, measure 339
+ - not exported to uncompressed file at entry 8342 in part P2, measure 340
+ - not exported to uncompressed file at entry 8345 in part P2, measure 340
+ - not exported to uncompressed file at entry 8350 in part P2, measure 340
+ - not exported to uncompressed file at entry 8353 in part P2, measure 340
+ - not exported to uncompressed file at entry 8375 in part P2, measure 341
+ - not exported to uncompressed file at entry 8392 in part P2, measure 342
+ - not exported to uncompressed file at entry 8395 in part P2, measure 342
+ - not exported to uncompressed file at entry 8426 in part P2, measure 343
+ - not exported to uncompressed file at entry 8435 in part P2, measure 343
+ - not exported to uncompressed file at entry 8444 in part P2, measure 343
+ - not exported to uncompressed file at entry 8452 in part P2, measure 343
+ - not exported to uncompressed file at entry 8472 in part P2, measure 344
+ - not exported to uncompressed file at entry 8476 in part P2, measure 344
+ - not exported to uncompressed file at entry 8481 in part P2, measure 344
+ - not exported to uncompressed file at entry 8483 in part P2, measure 344
+ - not exported to uncompressed file at entry 8487 in part P2, measure 344
+ - not exported to uncompressed file at entry 8491 in part P2, measure 344
+ - not exported to uncompressed file at entry 8509 in part P2, measure 345
+ - not exported to uncompressed file at entry 8513 in part P2, measure 345
+ - not exported to uncompressed file at entry 8516 in part P2, measure 345
+ - not exported to uncompressed file at entry 8518 in part P2, measure 345
+ - not exported to uncompressed file at entry 8541 in part P2, measure 346
+ - not exported to uncompressed file at entry 8568 in part P2, measure 347
+ - not exported to uncompressed file at entry 8573 in part P2, measure 347
+ - not exported to uncompressed file at entry 8576 in part P2, measure 347
+ - not exported to uncompressed file at entry 8611 in part P2, measure 348
+ - not exported to uncompressed file at entry 8630 in part P2, measure 349
+ - not exported to uncompressed file at entry 8634 in part P2, measure 349
+ - not exported to uncompressed file at entry 8637 in part P2, measure 349
+ - not exported to uncompressed file at entry 8666 in part P2, measure 350
+ - not exported to uncompressed file at entry 8670 in part P2, measure 350
+ - not exported to uncompressed file at entry 8673 in part P2, measure 350
+ - not exported to uncompressed file at entry 8677 in part P2, measure 350
+ - not exported to uncompressed file at entry 8683 in part P2, measure 350
+ - not exported to uncompressed file at entry 8701 in part P2, measure 351
+ - not exported to uncompressed file at entry 8703 in part P2, measure 351
+ - not exported to uncompressed file at entry 8709 in part P2, measure 351
+ - not exported to uncompressed file at entry 8712 in part P2, measure 351
+ - not exported to uncompressed file at entry 8744 in part P2, measure 352
+ - not exported to uncompressed file at entry 8747 in part P2, measure 352
+ - not exported to uncompressed file at entry 8753 in part P2, measure 352
+ - not exported to uncompressed file at entry 10002 in part P2, measure 405
+ - not exported to uncompressed file at entry 10013 in part P2, measure 408
+ - not exported to uncompressed file at entry 10021 in part P2, measure 411
+ - not exported to uncompressed file at entry 10037 in part P2, measure 415
+ - not exported to uncompressed file at entry 10048 in part P2, measure 417
+ - not exported to uncompressed file at entry 10051 in part P2, measure 417
+ - not exported to uncompressed file at entry 10076 in part P2, measure 423
+ - not exported to uncompressed file at entry 10092 in part P2, measure 426
+ - not exported to uncompressed file at entry 10096 in part P2, measure 427
+ - not exported to uncompressed file at entry 10101 in part P2, measure 429
+ - not exported to uncompressed file at entry 10107 in part P2, measure 431
+ - not exported to uncompressed file at entry 10128 in part P2, measure 435
+ - not exported to uncompressed file at entry 10138 in part P2, measure 437
+ - not exported to uncompressed file at entry 10143 in part P2, measure 438
+ - not exported to uncompressed file at entry 10173 in part P2, measure 444
+ - not exported to uncompressed file at entry 10184 in part P2, measure 446
+ - not exported to uncompressed file at entry 10217 in part P2, measure 454
+ - not exported to uncompressed file at entry 10253 in part P2, measure 462
+ - not exported to uncompressed file at entry 10290 in part P2, measure 471
+ - not exported to uncompressed file at entry 10303 in part P2, measure 474
+
+Shape articulation 22:
+ - not exported to uncompressed file at entry 5444 in part P2, measure 189
+
+Shape expression 2:
+ - not exported to uncompressed file at part P1, measure 8, edu 0
+ - not exported to uncompressed file at part P1, measure 127, edu 0
+
+Shape expression 3:
+ - not exported to uncompressed file at part P1, measure 10, edu 0
+ - not exported to uncompressed file at part P1, measure 661, edu 0
+
+Shape expression 4:
+ - not exported to uncompressed file at part P1, measure 17, edu 2048
+ - not exported to uncompressed file at part P1, measure 846, edu 683
+
+Shape expression 5:
+ - not exported to uncompressed file at part P1, measure 18, edu 0
+ - not exported to uncompressed file at part P1, measure X8, edu 0
+ - not exported to uncompressed file at part P1, measure 283, edu 0
+ - not exported to uncompressed file at part P1, measure 438, edu 0
+
+Shape expression 6:
+ - not exported to uncompressed file at part P1, measure 305, edu 0
+ - not exported to uncompressed file at part P1, measure 411, edu 0
+ - not exported to uncompressed file at part P1, measure 915, edu 0
+
+Shape expression 7:
+ - not exported to uncompressed file at part P1, measure 18, edu 512
+ - not exported to uncompressed file at part P1, measure 347, edu 512
+ - not exported to uncompressed file at part P1, measure 442, edu 1024
+ - not exported to uncompressed file at part P1, measure X62, edu 1024
+ - not exported to uncompressed file at part P1, measure 724, edu 2048
+
+Shape expression 8:
+ - not exported to uncompressed file at part P2, measure 49, edu 1024
+
+Shape expression 9:
+ - not exported to uncompressed file at part P1, measure 304, edu 3072
+ - not exported to uncompressed file at part P1, measure 356, edu 0
+ - not exported to uncompressed file at part P1, measure 385, edu 256
+ - not exported to uncompressed file at part P1, measure 389, edu 1536
+ - not exported to uncompressed file at part P1, measure 392, edu 0
+ - not exported to uncompressed file at part P1, measure 451, edu 683
+ - not exported to uncompressed file at part P1, measure 487, edu 683
+ - not exported to uncompressed file at part P1, measure 673, edu 2048
+ - not exported to uncompressed file at part P1, measure 702, edu 512
+ - not exported to uncompressed file at part P1, measure X91, edu 3072
+
+Shape expression 10:
+ - not exported to uncompressed file at part P1, measure 504, edu 0
+
+Shape expression 11:
+ - not exported to uncompressed file at part P1, measure 302, edu 0
+ - not exported to uncompressed file at part P1, measure 453, edu 0
+ - not exported to uncompressed file at part P1, measure 752, edu 0
+
+Shape expression 12:
+ - not exported to uncompressed file at part P2, measure 31, edu 0
+
+Shape expression 13:
+ - not exported to uncompressed file at part P1, measure 22, edu 1536
+ - not exported to uncompressed file at part P1, measure 140, edu 1024
+ - not exported to uncompressed file at part P1, measure 355, edu 3072
+ - not exported to uncompressed file at part P1, measure 372, edu 512
+ - not exported to uncompressed file at part P1, measure 563, edu 6144
+ - not exported to uncompressed file at part P1, measure 569, edu 3072
+ - not exported to uncompressed file at part P1, measure 903, edu 2048
+ - not exported to uncompressed file at part P1, measure X96, edu 1024
+ - not exported to uncompressed file at part P1, measure 914, edu 3072
+
+Shape expression 14:
+ - not exported to uncompressed file at part P1, measure 23, edu 0
+
+Shape expression 15:
+ - not exported to uncompressed file at part P1, measure 37, edu 0
+
+Shape expression 16:
+ - not exported to uncompressed file at part P1, measure 38, edu 0
+ - not exported to uncompressed file at part P1, measure 350, edu 0
+ - not exported to uncompressed file at part P1, measure 399, edu 0
+ - not exported to uncompressed file at part P1, measure 462, edu 0
+ - not exported to uncompressed file at part P1, measure 892, edu 0
+
+Shape expression 17:
+ - not exported to uncompressed file at part P2, measure 39, edu 512
+ - not exported to uncompressed file at part P2, measure 562, edu 0
+ - not exported to uncompressed file at part P2, measure X56, edu 0
+ - not exported to uncompressed file at part P2, measure X58, edu 3584
+ - not exported to uncompressed file at part P2, measure 648, edu 512
+ - not exported to uncompressed file at part P2, measure 657, edu 512
+
+Shape expression 18:
+ - not exported to uncompressed file at part P1, measure 40, edu 0
+ - not exported to uncompressed file at part P1, measure 340, edu 0
+
+Shape expression 19:
+ - not exported to uncompressed file at part P2, measure 40, edu 0
+
+Shape expression 20:
+ - not exported to uncompressed file at part P1, measure 43, edu 0
+
+Shape expression 21:
+ - not exported to uncompressed file at part P2, measure 53, edu 0
+
+Shape expression 22:
+ - not exported to uncompressed file at part P2, measure 50, edu 0
+
+Shape expression 23:
+ - not exported to uncompressed file at part P1, measure 51, edu 512
+ - not exported to uncompressed file at part P1, measure 315, edu 3072
+ - not exported to uncompressed file at part P1, measure 317, edu 1536
+ - not exported to uncompressed file at part P1, measure 353, edu 1536
+ - not exported to uncompressed file at part P1, measure 388, edu 0
+ - not exported to uncompressed file at part P1, measure 707, edu 2048
+ - not exported to uncompressed file at part P1, measure 718, edu 512
+ - not exported to uncompressed file at part P1, measure 748, edu 512
+
+Shape expression 24:
+ - not exported to uncompressed file at part P1, measure 55, edu 0
+ - not exported to uncompressed file at part P1, measure 218, edu 0
+ - not exported to uncompressed file at part P1, measure 346, edu 0
+ - not exported to uncompressed file at part P1, measure 416, edu 0
+ - not exported to uncompressed file at part P1, measure 432, edu 0
+ - not exported to uncompressed file at part P1, measure 592, edu 0
+ - not exported to uncompressed file at part P1, measure 879, edu 0
+ - not exported to uncompressed file at part P1, measure 904, edu 0
+
+Shape expression 25:
+ - not exported to uncompressed file at part P1, measure 60, edu 1024
+
+Shape expression 26:
+ - not exported to uncompressed file at part P1, measure 62, edu 0
+ - not exported to uncompressed file at part P1, measure 306, edu 0
+ - not exported to uncompressed file at part P1, measure 359, edu 0
+ - not exported to uncompressed file at part P1, measure 397, edu 0
+ - not exported to uncompressed file at part P1, measure 470, edu 0
+
+Shape expression 27:
+ - not exported to uncompressed file at part P1, measure 64, edu 0
+
+Shape expression 28:
+ - not exported to uncompressed file at part P1, measure 65, edu 0
+
+Shape expression 29:
+ - not exported to uncompressed file at part P1, measure X15, edu 1536
+
+Shape expression 30:
+ - not exported to uncompressed file at part P1, measure X16, edu 0
+ - not exported to uncompressed file at part P1, measure 655, edu 0
+ - not exported to uncompressed file at part P1, measure 909, edu 0
+
+Shape expression 31:
+ - not exported to uncompressed file at part P1, measure X18, edu 2048
+
+Shape expression 32:
+ - not exported to uncompressed file at part P1, measure X19, edu 0
+ - not exported to uncompressed file at part P1, measure 323, edu 3072
+
+Shape expression 33:
+ - not exported to uncompressed file at part P1, measure X20, edu 0
+
+Shape expression 34:
+ - not exported to uncompressed file at part P1, measure 76, edu 0
+ - not exported to uncompressed file at part P1, measure 309, edu 0
+ - not exported to uncompressed file at part P1, measure 361, edu 0
+ - not exported to uncompressed file at part P1, measure 837, edu 0
+ - not exported to uncompressed file at part P1, measure 920, edu 0
+
+Shape expression 35:
+ - not exported to uncompressed file at part P1, measure 79, edu 2048
+
+Shape expression 36:
+ - not exported to uncompressed file at part P1, measure 83, edu 0
+ - not exported to uncompressed file at part P1, measure 902, edu 0
+
+Shape expression 37:
+ - not exported to uncompressed file at part P1, measure 90, edu 0
+
+Shape expression 38:
+ - not exported to uncompressed file at part P1, measure 92, edu 2048
+
+Shape expression 39:
+ - not exported to uncompressed file at part P1, measure 89, edu 2048
+ - not exported to uncompressed file at part P1, measure 89, edu 2048
+ - not exported to uncompressed file at part P1, measure 126, edu 2048
+ - not exported to uncompressed file at part P1, measure 126, edu 2048
+ - not exported to uncompressed file at part P1, measure 238, edu 2048
+ - not exported to uncompressed file at part P1, measure 238, edu 2048
+ - not exported to uncompressed file at part P1, measure X39, edu 2048
+ - not exported to uncompressed file at part P1, measure X39, edu 2048
+ - not exported to uncompressed file at part P1, measure 496, edu 1707
+ - not exported to uncompressed file at part P1, measure 706, edu 2048
+ - not exported to uncompressed file at part P1, measure 706, edu 2048
+
+Shape expression 40:
+ - not exported to uncompressed file at part P1, measure 101, edu 0
+
+Shape expression 41:
+ - not exported to uncompressed file at part P1, measure 103, edu 0
+ - not exported to uncompressed file at part P1, measure 497, edu 0
+
+Shape expression 42:
+ - not exported to uncompressed file at part P1, measure 105, edu 0
+
+Shape expression 43:
+ - not exported to uncompressed file at part P2, measure 106, edu 0
+ - not exported to uncompressed file at part P2, measure 516, edu 1024
+ - not exported to uncompressed file at part P2, measure 516, edu 2048
+ - not exported to uncompressed file at part P2, measure 517, edu 512
+ - not exported to uncompressed file at part P2, measure 564, edu 3584
+ - not exported to uncompressed file at part P2, measure 692, edu 0
+
+Shape expression 44:
+ - not exported to uncompressed file at part P1, measure 107, edu 0
+
+Shape expression 45:
+ - not exported to uncompressed file at part P1, measure 108, edu 2048
+ - not exported to uncompressed file at part P1, measure 336, edu 768
+ - not exported to uncompressed file at part P1, measure 578, edu 2048
+ - not exported to uncompressed file at part P1, measure 733, edu 512
+
+Shape expression 46:
+ - not exported to uncompressed file at part P1, measure 115, edu 512
+ - not exported to uncompressed file at part P1, measure 295, edu 1536
+ - not exported to uncompressed file at part P1, measure 341, edu 1024
+ - not exported to uncompressed file at part P1, measure 675, edu 1024
+
+Shape expression 47:
+ - not exported to uncompressed file at part P1, measure 118, edu 1024
+ - not exported to uncompressed file at part P1, measure 393, edu 256
+
+Shape expression 48:
+ - not exported to uncompressed file at part P1, measure 124, edu 0
+
+Shape expression 49:
+ - not exported to uncompressed file at part P1, measure 130, edu 0
+ - not exported to uncompressed file at part P1, measure 643, edu 0
+
+Shape expression 50:
+ - not exported to uncompressed file at part P1, measure 133, edu 0
+
+Shape expression 51:
+ - not exported to uncompressed file at part P1, measure 134, edu 0
+
+Shape expression 52:
+ - not exported to uncompressed file at part P1, measure 136, edu 0
+
+Shape expression 53:
+ - not exported to uncompressed file at part P1, measure 138, edu 0
+ - not exported to uncompressed file at part P1, measure 352, edu 0
+ - not exported to uncompressed file at part P1, measure 656, edu 0
+ - not exported to uncompressed file at part P1, measure 658, edu 0
+ - not exported to uncompressed file at part P1, measure 834, edu 0
+ - not exported to uncompressed file at part P1, measure 905, edu 0
+
+Shape expression 54:
+ - not exported to uncompressed file at part P1, measure 139, edu 0
+
+Shape expression 55:
+ - not exported to uncompressed file at part P1, measure 150, edu 0
+
+Shape expression 56:
+ - not exported to uncompressed file at part P1, measure 149, edu 0
+
+Shape expression 57:
+ - not exported to uncompressed file at part P1, measure 178, edu 2048
+
+Shape expression 58:
+ - not exported to uncompressed file at part P1, measure 185, edu 0
+
+Shape expression 59:
+ - not exported to uncompressed file at part P1, measure 190, edu 512
+
+Shape expression 60:
+ - not exported to uncompressed file at part P1, measure 191, edu 512
+
+Shape expression 61:
+ - not exported to uncompressed file at part P1, measure 195, edu 512
+
+Shape expression 62:
+ - not exported to uncompressed file at part P2, measure 198, edu 1280
+
+Shape expression 63:
+ - not exported to uncompressed file at part P1, measure 198, edu 0
+ - not exported to uncompressed file at part P1, measure 649, edu 1024
+
+Shape expression 64:
+ - not exported to uncompressed file at part P1, measure 200, edu 0
+
+Shape expression 65:
+ - not exported to uncompressed file at part P1, measure 202, edu 1024
+
+Shape expression 66:
+ - not exported to uncompressed file at part P1, measure 204, edu 0
+
+Shape expression 67:
+ - not exported to uncompressed file at part P1, measure 206, edu 512
+
+Shape expression 68:
+ - not exported to uncompressed file at part P1, measure 210, edu 0
+
+Shape expression 69:
+ - not exported to uncompressed file at part P1, measure 213, edu 0
+
+Shape expression 70:
+ - not exported to uncompressed file at part P2, measure 215, edu 0
+
+Shape expression 71:
+ - not exported to uncompressed file at part P1, measure 282, edu 0
+ - not exported to uncompressed file at part P1, measure 365, edu 0
+ - not exported to uncompressed file at part P1, measure 371, edu 0
+ - not exported to uncompressed file at part P1, measure 375, edu 0
+ - not exported to uncompressed file at part P1, measure 398, edu 0
+ - not exported to uncompressed file at part P1, measure 439, edu 0
+ - not exported to uncompressed file at part P1, measure 737, edu 0
+ - not exported to uncompressed file at part P1, measure 848, edu 0
+ - not exported to uncompressed file at part P1, measure 880, edu 0
+
+Shape expression 72:
+ - not exported to uncompressed file at part P1, measure 215, edu 1024
+
+Shape expression 73:
+ - not exported to uncompressed file at part P1, measure 217, edu 512
+
+Shape expression 74:
+ - not exported to uncompressed file at part P1, measure 220, edu 0
+ - not exported to uncompressed file at part P1, measure 381, edu 0
+ - not exported to uncompressed file at part P1, measure 418, edu 0
+ - not exported to uncompressed file at part P1, measure 425, edu 0
+ - not exported to uncompressed file at part P1, measure 476, edu 0
+
+Shape expression 75:
+ - not exported to uncompressed file at part P1, measure 221, edu 0
+
+Shape expression 76:
+ - not exported to uncompressed file at part P1, measure 225, edu 0
+
+Shape expression 77:
+ - not exported to uncompressed file at part P1, measure 229, edu 0
+
+Shape expression 78:
+ - not exported to uncompressed file at part P1, measure 239, edu 0
+
+Shape expression 79:
+ - not exported to uncompressed file at part P1, measure 243, edu 0
+
+Shape expression 80:
+ - not exported to uncompressed file at part P1, measure 246, edu 0
+
+Shape expression 81:
+ - not exported to uncompressed file at part P1, measure 258, edu 0
+
+Shape expression 82:
+ - not exported to uncompressed file at part P1, measure 313, edu 0
+ - not exported to uncompressed file at part P1, measure 483, edu 0
+
+Shape expression 87:
+ - not exported to uncompressed file at part P1, measure 553, edu 0
+
+Shape expression 89:
+ - not exported to uncompressed file at part P2, measure 545, edu 0
+
+Shape expression 90:
+ - not exported to uncompressed file at part P1, measure 552, edu 512
+
+Shape expression 91:
+ - not exported to uncompressed file at part P1, measure 555, edu 0
+
+Shape expression 92:
+ - not exported to uncompressed file at part P1, measure 553, edu 410
+ - not exported to uncompressed file at part P2, measure 553, edu 410
+ - not exported to uncompressed file at part P2, measure 659, edu 0
+
+Shape expression 93:
+ - not exported to uncompressed file at part P2, measure 485, edu 1280
+ - not exported to uncompressed file at part P2, measure 492, edu 1024
+ - not exported to uncompressed file at part P2, measure X45, edu 1280
+ - not exported to uncompressed file at part P2, measure 506, edu 1024
+ - not exported to uncompressed file at part P2, measure X49, edu 1024
+ - not exported to uncompressed file at part P2, measure 551, edu 1024
+ - not exported to uncompressed file at part P2, measure 556, edu 1024
+ - not exported to uncompressed file at part P2, measure X56, edu 2048
+ - not exported to uncompressed file at part P2, measure X58, edu 1024
+ - not exported to uncompressed file at part P2, measure 579, edu 0
+ - not exported to uncompressed file at part P2, measure X60, edu 1024
+ - not exported to uncompressed file at part P2, measure 655, edu 0
+ - not exported to uncompressed file at part P2, measure 655, edu 1024
+ - not exported to uncompressed file at part P2, measure 726, edu 0
+ - not exported to uncompressed file at part P2, measure 733, edu 1536
+ - not exported to uncompressed file at part P2, measure 745, edu 1536
+ - not exported to uncompressed file at part P2, measure 746, edu 1536
+ - not exported to uncompressed file at part P2, measure 751, edu 1024
+ - not exported to uncompressed file at part P2, measure 752, edu 1024
+ - not exported to uncompressed file at part P2, measure 753, edu 1024
+ - not exported to uncompressed file at part P2, measure 867, edu 0
+ - not exported to uncompressed file at part P2, measure 889, edu 0
+ - not exported to uncompressed file at part P2, measure 893, edu 0
+ - not exported to uncompressed file at part P2, measure 903, edu 3072
+
+Shape expression 94:
+ - not exported to uncompressed file at part P1, measure 487, edu 1365
+ - not exported to uncompressed file at part P1, measure 493, edu 1024
+ - not exported to uncompressed file at part P1, measure 530, edu 1024
+ - not exported to uncompressed file at part P1, measure 533, edu 512
+ - not exported to uncompressed file at part P1, measure X50, edu 5632
+ - not exported to uncompressed file at part P1, measure 559, edu 512
+ - not exported to uncompressed file at part P1, measure 559, edu 1707
+ - not exported to uncompressed file at part P1, measure 559, edu 4096
+ - not exported to uncompressed file at part P1, measure 560, edu 4096
+ - not exported to uncompressed file at part P1, measure 561, edu 512
+ - not exported to uncompressed file at part P1, measure 561, edu 5632
+ - not exported to uncompressed file at part P1, measure 563, edu 1365
+ - not exported to uncompressed file at part P1, measure 563, edu 2560
+ - not exported to uncompressed file at part P1, measure 563, edu 4096
+ - not exported to uncompressed file at part P1, measure 563, edu 4608
+ - not exported to uncompressed file at part P1, measure 564, edu 2560
+ - not exported to uncompressed file at part P1, measure 564, edu 4096
+ - not exported to uncompressed file at part P1, measure 565, edu 0
+ - not exported to uncompressed file at part P1, measure 565, edu 0
+ - not exported to uncompressed file at part P1, measure 567, edu 683
+ - not exported to uncompressed file at part P1, measure 567, edu 3584
+ - not exported to uncompressed file at part P1, measure 569, edu 1024
+ - not exported to uncompressed file at part P1, measure 601, edu 3072
+ - not exported to uncompressed file at part P1, measure 604, edu 1536
+ - not exported to uncompressed file at part P1, measure 606, edu 0
+ - not exported to uncompressed file at part P1, measure 606, edu 1536
+ - not exported to uncompressed file at part P1, measure 607, edu 512
+ - not exported to uncompressed file at part P1, measure 610, edu 0
+ - not exported to uncompressed file at part P1, measure 619, edu 1536
+ - not exported to uncompressed file at part P1, measure 633, edu 1536
+ - not exported to uncompressed file at part P1, measure 647, edu 512
+ - not exported to uncompressed file at part P1, measure 663, edu 2731
+ - not exported to uncompressed file at part P1, measure 668, edu 1536
+ - not exported to uncompressed file at part P1, measure 669, edu 2048
+ - not exported to uncompressed file at part P1, measure 669, edu 3413
+ - not exported to uncompressed file at part P1, measure 678, edu 2048
+ - not exported to uncompressed file at part P1, measure 681, edu 341
+ - not exported to uncompressed file at part P1, measure 698, edu 0
+ - not exported to uncompressed file at part P1, measure 699, edu 2560
+ - not exported to uncompressed file at part P1, measure 720, edu 2560
+ - not exported to uncompressed file at part P1, measure 728, edu 768
+ - not exported to uncompressed file at part P1, measure 735, edu 2560
+ - not exported to uncompressed file at part P1, measure 767, edu 410
+ - not exported to uncompressed file at part P1, measure 775, edu 1024
+ - not exported to uncompressed file at part P1, measure 779, edu 2560
+ - not exported to uncompressed file at part P1, measure 795, edu 1024
+ - not exported to uncompressed file at part P1, measure 828, edu 683
+ - not exported to uncompressed file at part P1, measure 830, edu 3413
+ - not exported to uncompressed file at part P1, measure 837, edu 0
+ - not exported to uncompressed file at part P1, measure 841, edu 3413
+ - not exported to uncompressed file at part P2, measure 486, edu 1024
+ - not exported to uncompressed file at part P2, measure 487, edu 0
+ - not exported to uncompressed file at part P2, measure 490, edu 0
+ - not exported to uncompressed file at part P2, measure 502, edu 0
+ - not exported to uncompressed file at part P2, measure 502, edu 0
+ - not exported to uncompressed file at part P2, measure 504, edu 0
+ - not exported to uncompressed file at part P2, measure 515, edu 768
+ - not exported to uncompressed file at part P2, measure 516, edu 1792
+ - not exported to uncompressed file at part P2, measure 517, edu 1280
+ - not exported to uncompressed file at part P2, measure 523, edu 0
+ - not exported to uncompressed file at part P2, measure X47, edu 1024
+ - not exported to uncompressed file at part P2, measure 527, edu 1536
+ - not exported to uncompressed file at part P2, measure 528, edu 341
+ - not exported to uncompressed file at part P2, measure 528, edu 341
+ - not exported to uncompressed file at part P2, measure 529, edu 2560
+ - not exported to uncompressed file at part P2, measure 529, edu 2560
+ - not exported to uncompressed file at part P2, measure 529, edu 2048
+ - not exported to uncompressed file at part P2, measure 530, edu 1365
+ - not exported to uncompressed file at part P2, measure 530, edu 1707
+ - not exported to uncompressed file at part P2, measure 530, edu 2304
+ - not exported to uncompressed file at part P2, measure 531, edu 512
+ - not exported to uncompressed file at part P2, measure 532, edu 0
+ - not exported to uncompressed file at part P2, measure 532, edu 2048
+ - not exported to uncompressed file at part P2, measure 533, edu 0
+ - not exported to uncompressed file at part P2, measure 533, edu 1024
+ - not exported to uncompressed file at part P2, measure X48, edu 1024
+ - not exported to uncompressed file at part P2, measure 538, edu 1536
+ - not exported to uncompressed file at part P2, measure 540, edu 1536
+ - not exported to uncompressed file at part P2, measure 540, edu 2048
+ - not exported to uncompressed file at part P2, measure 541, edu 512
+ - not exported to uncompressed file at part P2, measure 541, edu 2560
+ - not exported to uncompressed file at part P2, measure 542, edu 0
+ - not exported to uncompressed file at part P2, measure 543, edu 0
+ - not exported to uncompressed file at part P2, measure 543, edu 2048
+ - not exported to uncompressed file at part P2, measure 544, edu 0
+ - not exported to uncompressed file at part P2, measure 551, edu 2048
+ - not exported to uncompressed file at part P2, measure 555, edu 0
+ - not exported to uncompressed file at part P2, measure X50, edu 2048
+ - not exported to uncompressed file at part P2, measure X50, edu 4096
+ - not exported to uncompressed file at part P2, measure X50, edu 4096
+ - not exported to uncompressed file at part P2, measure X50, edu 5632
+ - not exported to uncompressed file at part P2, measure 559, edu 0
+ - not exported to uncompressed file at part P2, measure 560, edu 4608
+ - not exported to uncompressed file at part P2, measure 561, edu 5120
+ - not exported to uncompressed file at part P2, measure 562, edu 0
+ - not exported to uncompressed file at part P2, measure 562, edu 4352
+ - not exported to uncompressed file at part P2, measure 562, edu 4352
+ - not exported to uncompressed file at part P2, measure 562, edu 0
+ - not exported to uncompressed file at part P2, measure 562, edu 3072
+ - not exported to uncompressed file at part P2, measure 562, edu 5120
+ - not exported to uncompressed file at part P2, measure 562, edu 5888
+ - not exported to uncompressed file at part P2, measure 562, edu 5888
+ - not exported to uncompressed file at part P2, measure 562, edu 6912
+ - not exported to uncompressed file at part P2, measure 563, edu 1280
+ - not exported to uncompressed file at part P2, measure 563, edu 1536
+ - not exported to uncompressed file at part P2, measure 563, edu 256
+ - not exported to uncompressed file at part P2, measure 564, edu 4608
+ - not exported to uncompressed file at part P2, measure 564, edu 5632
+ - not exported to uncompressed file at part P2, measure 564, edu 0
+ - not exported to uncompressed file at part P2, measure 565, edu 1536
+ - not exported to uncompressed file at part P2, measure 566, edu 0
+ - not exported to uncompressed file at part P2, measure 566, edu 0
+ - not exported to uncompressed file at part P2, measure 566, edu 512
+ - not exported to uncompressed file at part P2, measure 566, edu 3584
+ - not exported to uncompressed file at part P2, measure 566, edu 3584
+ - not exported to uncompressed file at part P2, measure 566, edu 3584
+ - not exported to uncompressed file at part P2, measure 566, edu 5632
+ - not exported to uncompressed file at part P2, measure 566, edu 0
+ - not exported to uncompressed file at part P2, measure 567, edu 1536
+ - not exported to uncompressed file at part P2, measure 567, edu 2048
+ - not exported to uncompressed file at part P2, measure 567, edu 4608
+ - not exported to uncompressed file at part P2, measure 568, edu 4608
+ - not exported to uncompressed file at part P2, measure 568, edu 5803
+ - not exported to uncompressed file at part P2, measure 568, edu 0
+ - not exported to uncompressed file at part P2, measure 568, edu 4608
+ - not exported to uncompressed file at part P2, measure 568, edu 5120
+ - not exported to uncompressed file at part P2, measure 569, edu 512
+ - not exported to uncompressed file at part P2, measure 569, edu 5120
+ - not exported to uncompressed file at part P2, measure 569, edu 3072
+ - not exported to uncompressed file at part P2, measure 570, edu 2048
+ - not exported to uncompressed file at part P2, measure 570, edu 0
+ - not exported to uncompressed file at part P2, measure 570, edu 1024
+ - not exported to uncompressed file at part P2, measure X56, edu 0
+ - not exported to uncompressed file at part P2, measure X56, edu 0
+ - not exported to uncompressed file at part P2, measure 577, edu 1280
+ - not exported to uncompressed file at part P2, measure 577, edu 2560
+ - not exported to uncompressed file at part P2, measure 577, edu 2816
+ - not exported to uncompressed file at part P2, measure X60, edu 0
+ - not exported to uncompressed file at part P2, measure X60, edu 0
+ - not exported to uncompressed file at part P2, measure X64, edu 1024
+ - not exported to uncompressed file at part P2, measure 594, edu 0
+ - not exported to uncompressed file at part P2, measure 594, edu 0
+ - not exported to uncompressed file at part P2, measure 594, edu 0
+ - not exported to uncompressed file at part P2, measure 594, edu 3584
+ - not exported to uncompressed file at part P2, measure 594, edu 5632
+ - not exported to uncompressed file at part P2, measure 594, edu 5632
+ - not exported to uncompressed file at part P2, measure 595, edu 1536
+ - not exported to uncompressed file at part P2, measure 595, edu 1024
+ - not exported to uncompressed file at part P2, measure 595, edu 1024
+ - not exported to uncompressed file at part P2, measure 595, edu 3072
+ - not exported to uncompressed file at part P2, measure 597, edu 512
+ - not exported to uncompressed file at part P2, measure 597, edu 512
+ - not exported to uncompressed file at part P2, measure 597, edu 1365
+ - not exported to uncompressed file at part P2, measure 597, edu 2048
+ - not exported to uncompressed file at part P2, measure 597, edu 2048
+ - not exported to uncompressed file at part P2, measure 598, edu 0
+ - not exported to uncompressed file at part P2, measure 600, edu 1365
+ - not exported to uncompressed file at part P2, measure 600, edu 1365
+ - not exported to uncompressed file at part P2, measure 601, edu 683
+ - not exported to uncompressed file at part P2, measure 601, edu 683
+ - not exported to uncompressed file at part P2, measure 607, edu 3584
+ - not exported to uncompressed file at part P2, measure 608, edu 1536
+ - not exported to uncompressed file at part P2, measure 608, edu 1024
+ - not exported to uncompressed file at part P2, measure 609, edu 512
+ - not exported to uncompressed file at part P2, measure 609, edu 1536
+ - not exported to uncompressed file at part P2, measure 609, edu 1536
+ - not exported to uncompressed file at part P2, measure 609, edu 2560
+ - not exported to uncompressed file at part P2, measure X67, edu 1365
+ - not exported to uncompressed file at part P2, measure 618, edu 0
+ - not exported to uncompressed file at part P2, measure 621, edu 0
+ - not exported to uncompressed file at part P2, measure 627, edu 0
+ - not exported to uncompressed file at part P2, measure 627, edu 0
+ - not exported to uncompressed file at part P2, measure 628, edu 2048
+ - not exported to uncompressed file at part P2, measure 629, edu 0
+ - not exported to uncompressed file at part P2, measure 629, edu 0
+ - not exported to uncompressed file at part P2, measure X69, edu 1365
+ - not exported to uncompressed file at part P2, measure 632, edu 0
+ - not exported to uncompressed file at part P2, measure 634, edu 1024
+ - not exported to uncompressed file at part P2, measure 635, edu 0
+ - not exported to uncompressed file at part P2, measure 641, edu 0
+ - not exported to uncompressed file at part P2, measure 641, edu 0
+ - not exported to uncompressed file at part P2, measure 642, edu 2048
+ - not exported to uncompressed file at part P2, measure 643, edu 0
+ - not exported to uncompressed file at part P2, measure 643, edu 0
+ - not exported to uncompressed file at part P2, measure X70, edu 0
+ - not exported to uncompressed file at part P2, measure X71, edu 1536
+ - not exported to uncompressed file at part P2, measure X71, edu 1536
+ - not exported to uncompressed file at part P2, measure X71, edu 512
+ - not exported to uncompressed file at part P2, measure 645, edu 512
+ - not exported to uncompressed file at part P2, measure 645, edu 2048
+ - not exported to uncompressed file at part P2, measure 645, edu 3072
+ - not exported to uncompressed file at part P2, measure 647, edu 0
+ - not exported to uncompressed file at part P2, measure 647, edu 0
+ - not exported to uncompressed file at part P2, measure 647, edu 1792
+ - not exported to uncompressed file at part P2, measure 648, edu 0
+ - not exported to uncompressed file at part P2, measure 651, edu 2731
+ - not exported to uncompressed file at part P2, measure 652, edu 683
+ - not exported to uncompressed file at part P2, measure 652, edu 1707
+ - not exported to uncompressed file at part P2, measure 652, edu 1707
+ - not exported to uncompressed file at part P2, measure 663, edu 1536
+ - not exported to uncompressed file at part P2, measure 663, edu 2048
+ - not exported to uncompressed file at part P2, measure 663, edu 2487
+ - not exported to uncompressed file at part P2, measure 664, edu 0
+ - not exported to uncompressed file at part P2, measure 664, edu 2458
+ - not exported to uncompressed file at part P2, measure 665, edu 0
+ - not exported to uncompressed file at part P2, measure 665, edu 2926
+ - not exported to uncompressed file at part P2, measure 666, edu 1536
+ - not exported to uncompressed file at part P2, measure 666, edu 2901
+ - not exported to uncompressed file at part P2, measure 666, edu 1963
+ - not exported to uncompressed file at part P2, measure 667, edu 2048
+ - not exported to uncompressed file at part P2, measure 667, edu 2304
+ - not exported to uncompressed file at part P2, measure 668, edu 0
+ - not exported to uncompressed file at part P2, measure 669, edu 2560
+ - not exported to uncompressed file at part P2, measure 670, edu 256
+ - not exported to uncompressed file at part P2, measure 670, edu 256
+ - not exported to uncompressed file at part P2, measure 670, edu 2304
+ - not exported to uncompressed file at part P2, measure 671, edu 1792
+ - not exported to uncompressed file at part P2, measure 671, edu 1920
+ - not exported to uncompressed file at part P2, measure 671, edu 2176
+ - not exported to uncompressed file at part P2, measure 673, edu 0
+ - not exported to uncompressed file at part P2, measure 675, edu 2901
+ - not exported to uncompressed file at part P2, measure 677, edu 0
+ - not exported to uncompressed file at part P2, measure 679, edu 853
+ - not exported to uncompressed file at part P2, measure X77, edu 3584
+ - not exported to uncompressed file at part P2, measure 682, edu 3072
+ - not exported to uncompressed file at part P2, measure 684, edu 0
+ - not exported to uncompressed file at part P2, measure 684, edu 0
+ - not exported to uncompressed file at part P2, measure 685, edu 2816
+ - not exported to uncompressed file at part P2, measure 688, edu 3413
+ - not exported to uncompressed file at part P2, measure 688, edu 1365
+ - not exported to uncompressed file at part P2, measure 690, edu 2560
+ - not exported to uncompressed file at part P2, measure 691, edu 1229
+ - not exported to uncompressed file at part P2, measure 693, edu 3686
+ - not exported to uncompressed file at part P2, measure 693, edu 1280
+ - not exported to uncompressed file at part P2, measure 694, edu 1536
+ - not exported to uncompressed file at part P2, measure X78, edu 1024
+ - not exported to uncompressed file at part P2, measure X78, edu 1536
+ - not exported to uncompressed file at part P2, measure X78, edu 1536
+ - not exported to uncompressed file at part P2, measure 696, edu 1024
+ - not exported to uncompressed file at part P2, measure 696, edu 1024
+ - not exported to uncompressed file at part P2, measure 696, edu 2560
+ - not exported to uncompressed file at part P2, measure 697, edu 2048
+ - not exported to uncompressed file at part P2, measure 697, edu 0
+ - not exported to uncompressed file at part P2, measure 697, edu 0
+ - not exported to uncompressed file at part P2, measure 698, edu 0
+ - not exported to uncompressed file at part P2, measure 698, edu 1536
+ - not exported to uncompressed file at part P2, measure 698, edu 1536
+ - not exported to uncompressed file at part P2, measure 698, edu 1536
+ - not exported to uncompressed file at part P2, measure 698, edu 2048
+ - not exported to uncompressed file at part P2, measure 699, edu 2560
+ - not exported to uncompressed file at part P2, measure 699, edu 2560
+ - not exported to uncompressed file at part P2, measure 699, edu 1536
+ - not exported to uncompressed file at part P2, measure 699, edu 2048
+ - not exported to uncompressed file at part P2, measure 700, edu 1024
+ - not exported to uncompressed file at part P2, measure 700, edu 1024
+ - not exported to uncompressed file at part P2, measure 700, edu 1024
+ - not exported to uncompressed file at part P2, measure 701, edu 0
+ - not exported to uncompressed file at part P2, measure 701, edu 0
+ - not exported to uncompressed file at part P2, measure 701, edu 0
+ - not exported to uncompressed file at part P2, measure 701, edu 512
+ - not exported to uncompressed file at part P2, measure 701, edu 1536
+ - not exported to uncompressed file at part P2, measure 701, edu 2048
+ - not exported to uncompressed file at part P2, measure 701, edu 2048
+ - not exported to uncompressed file at part P2, measure 701, edu 2560
+ - not exported to uncompressed file at part P2, measure 701, edu 2560
+ - not exported to uncompressed file at part P2, measure 701, edu 0
+ - not exported to uncompressed file at part P2, measure 701, edu 2048
+ - not exported to uncompressed file at part P2, measure 701, edu 2048
+ - not exported to uncompressed file at part P2, measure 702, edu 512
+ - not exported to uncompressed file at part P2, measure 702, edu 512
+ - not exported to uncompressed file at part P2, measure 704, edu 512
+ - not exported to uncompressed file at part P2, measure 705, edu 1536
+ - not exported to uncompressed file at part P2, measure 705, edu 1536
+ - not exported to uncompressed file at part P2, measure 705, edu 2560
+ - not exported to uncompressed file at part P2, measure 706, edu 2048
+ - not exported to uncompressed file at part P2, measure X79, edu 1024
+ - not exported to uncompressed file at part P2, measure 713, edu 2048
+ - not exported to uncompressed file at part P2, measure 714, edu 0
+ - not exported to uncompressed file at part P2, measure 714, edu 0
+ - not exported to uncompressed file at part P2, measure 714, edu 1536
+ - not exported to uncompressed file at part P2, measure 715, edu 2560
+ - not exported to uncompressed file at part P2, measure 715, edu 2560
+ - not exported to uncompressed file at part P2, measure 715, edu 2560
+ - not exported to uncompressed file at part P2, measure 716, edu 1024
+ - not exported to uncompressed file at part P2, measure 716, edu 1024
+ - not exported to uncompressed file at part P2, measure 716, edu 1024
+ - not exported to uncompressed file at part P2, measure 717, edu 2048
+ - not exported to uncompressed file at part P2, measure 717, edu 2048
+ - not exported to uncompressed file at part P2, measure 717, edu 2048
+ - not exported to uncompressed file at part P2, measure 717, edu 2048
+ - not exported to uncompressed file at part P2, measure 721, edu 1536
+ - not exported to uncompressed file at part P2, measure 722, edu 2048
+ - not exported to uncompressed file at part P2, measure 732, edu 2048
+ - not exported to uncompressed file at part P2, measure 732, edu 2048
+ - not exported to uncompressed file at part P2, measure 747, edu 2048
+ - not exported to uncompressed file at part P2, measure 747, edu 2048
+ - not exported to uncompressed file at part P2, measure 750, edu 2048
+ - not exported to uncompressed file at part P2, measure 750, edu 2560
+ - not exported to uncompressed file at part P2, measure 758, edu 0
+ - not exported to uncompressed file at part P2, measure 761, edu 1024
+ - not exported to uncompressed file at part P2, measure 762, edu 0
+ - not exported to uncompressed file at part P2, measure 763, edu 512
+ - not exported to uncompressed file at part P2, measure 763, edu 512
+ - not exported to uncompressed file at part P2, measure 764, edu 512
+ - not exported to uncompressed file at part P2, measure 764, edu 512
+ - not exported to uncompressed file at part P2, measure 764, edu 1024
+ - not exported to uncompressed file at part P2, measure 765, edu 1536
+ - not exported to uncompressed file at part P2, measure 765, edu 2560
+ - not exported to uncompressed file at part P2, measure 766, edu 0
+ - not exported to uncompressed file at part P2, measure 768, edu 2048
+ - not exported to uncompressed file at part P2, measure 772, edu 0
+ - not exported to uncompressed file at part P2, measure 772, edu 0
+ - not exported to uncompressed file at part P2, measure 774, edu 2731
+ - not exported to uncompressed file at part P2, measure 775, edu 683
+ - not exported to uncompressed file at part P2, measure 776, edu 1365
+ - not exported to uncompressed file at part P2, measure 776, edu 1365
+ - not exported to uncompressed file at part P2, measure 778, edu 2731
+ - not exported to uncompressed file at part P2, measure 778, edu 2731
+ - not exported to uncompressed file at part P2, measure 778, edu 2731
+ - not exported to uncompressed file at part P2, measure 779, edu 1536
+ - not exported to uncompressed file at part P2, measure 779, edu 1536
+ - not exported to uncompressed file at part P2, measure 779, edu 1707
+ - not exported to uncompressed file at part P2, measure 779, edu 1707
+ - not exported to uncompressed file at part P2, measure 779, edu 0
+ - not exported to uncompressed file at part P2, measure 779, edu 512
+ - not exported to uncompressed file at part P2, measure 779, edu 512
+ - not exported to uncompressed file at part P2, measure 779, edu 1536
+ - not exported to uncompressed file at part P2, measure 781, edu 512
+ - not exported to uncompressed file at part P2, measure 781, edu 1280
+ - not exported to uncompressed file at part P2, measure 781, edu 2731
+ - not exported to uncompressed file at part P2, measure 781, edu 2731
+ - not exported to uncompressed file at part P2, measure 781, edu 2731
+ - not exported to uncompressed file at part P2, measure 782, edu 683
+ - not exported to uncompressed file at part P2, measure 782, edu 683
+ - not exported to uncompressed file at part P2, measure 782, edu 683
+ - not exported to uncompressed file at part P2, measure 782, edu 2048
+ - not exported to uncompressed file at part P2, measure 782, edu 1280
+ - not exported to uncompressed file at part P2, measure 782, edu 1280
+ - not exported to uncompressed file at part P2, measure 782, edu 2389
+ - not exported to uncompressed file at part P2, measure 782, edu 2731
+ - not exported to uncompressed file at part P2, measure 783, edu 1024
+ - not exported to uncompressed file at part P2, measure 783, edu 1536
+ - not exported to uncompressed file at part P2, measure 784, edu 0
+ - not exported to uncompressed file at part P2, measure 785, edu 0
+ - not exported to uncompressed file at part P2, measure 785, edu 0
+ - not exported to uncompressed file at part P2, measure 785, edu 0
+ - not exported to uncompressed file at part P2, measure 786, edu 3328
+ - not exported to uncompressed file at part P2, measure 787, edu 512
+ - not exported to uncompressed file at part P2, measure 787, edu 1024
+ - not exported to uncompressed file at part P2, measure 788, edu 1536
+ - not exported to uncompressed file at part P2, measure 789, edu 2560
+ - not exported to uncompressed file at part P2, measure 792, edu 0
+ - not exported to uncompressed file at part P2, measure 794, edu 2731
+ - not exported to uncompressed file at part P2, measure 795, edu 683
+ - not exported to uncompressed file at part P2, measure 796, edu 1365
+ - not exported to uncompressed file at part P2, measure 799, edu 0
+ - not exported to uncompressed file at part P2, measure 802, edu 2048
+ - not exported to uncompressed file at part P2, measure 803, edu 1536
+ - not exported to uncompressed file at part P2, measure 804, edu 0
+ - not exported to uncompressed file at part P2, measure 808, edu 1536
+ - not exported to uncompressed file at part P2, measure 811, edu 1024
+ - not exported to uncompressed file at part P2, measure 811, edu 1024
+ - not exported to uncompressed file at part P2, measure 813, edu 0
+ - not exported to uncompressed file at part P2, measure 813, edu 0
+ - not exported to uncompressed file at part P2, measure 814, edu 1792
+ - not exported to uncompressed file at part P2, measure 816, edu 1365
+ - not exported to uncompressed file at part P2, measure X91, edu 1536
+ - not exported to uncompressed file at part P2, measure X91, edu 2560
+ - not exported to uncompressed file at part P2, measure X91, edu 2560
+ - not exported to uncompressed file at part P2, measure X91, edu 3584
+ - not exported to uncompressed file at part P2, measure X91, edu 3584
+ - not exported to uncompressed file at part P2, measure 827, edu 0
+ - not exported to uncompressed file at part P2, measure 827, edu 0
+ - not exported to uncompressed file at part P2, measure 828, edu 2560
+ - not exported to uncompressed file at part P2, measure 833, edu 0
+ - not exported to uncompressed file at part P2, measure 834, edu 768
+ - not exported to uncompressed file at part P2, measure 834, edu 1792
+ - not exported to uncompressed file at part P2, measure 834, edu 1792
+ - not exported to uncompressed file at part P2, measure 834, edu 1792
+ - not exported to uncompressed file at part P2, measure 834, edu 2048
+ - not exported to uncompressed file at part P2, measure 835, edu 0
+ - not exported to uncompressed file at part P2, measure 835, edu 1024
+ - not exported to uncompressed file at part P2, measure 835, edu 1792
+ - not exported to uncompressed file at part P2, measure 836, edu 256
+ - not exported to uncompressed file at part P2, measure 836, edu 640
+ - not exported to uncompressed file at part P2, measure 837, edu 427
+ - not exported to uncompressed file at part P2, measure 838, edu 1792
+ - not exported to uncompressed file at part P2, measure 839, edu 0
+ - not exported to uncompressed file at part P2, measure 839, edu 768
+ - not exported to uncompressed file at part P2, measure 841, edu 3072
+ - not exported to uncompressed file at part P2, measure 842, edu 0
+ - not exported to uncompressed file at part P2, measure 842, edu 3584
+ - not exported to uncompressed file at part P2, measure 842, edu 512
+ - not exported to uncompressed file at part P2, measure 842, edu 2560
+ - not exported to uncompressed file at part P2, measure 842, edu 3072
+ - not exported to uncompressed file at part P2, measure 843, edu 3584
+ - not exported to uncompressed file at part P2, measure 843, edu 2560
+ - not exported to uncompressed file at part P2, measure 843, edu 3328
+ - not exported to uncompressed file at part P2, measure 845, edu 0
+ - not exported to uncompressed file at part P2, measure 845, edu 2048
+
+Shape expression 95:
+ - not exported to uncompressed file at part P1, measure 537, edu 1707
+ - not exported to uncompressed file at part P1, measure X71, edu 1024
+ - not exported to uncompressed file at part P2, measure 519, edu 0
+ - not exported to uncompressed file at part P2, measure 530, edu 0
+ - not exported to uncompressed file at part P2, measure 533, edu 0
+ - not exported to uncompressed file at part P2, measure 544, edu 0
+ - not exported to uncompressed file at part P2, measure 544, edu 0
+ - not exported to uncompressed file at part P2, measure 555, edu 0
+ - not exported to uncompressed file at part P2, measure 555, edu 0
+ - not exported to uncompressed file at part P2, measure X50, edu 6144
+ - not exported to uncompressed file at part P2, measure 566, edu 5632
+ - not exported to uncompressed file at part P2, measure 570, edu 4096
+ - not exported to uncompressed file at part P2, measure X53, edu 1024
+ - not exported to uncompressed file at part P2, measure X56, edu 0
+ - not exported to uncompressed file at part P2, measure X60, edu 0
+ - not exported to uncompressed file at part P2, measure 582, edu 0
+ - not exported to uncompressed file at part P2, measure X62, edu 0
+ - not exported to uncompressed file at part P2, measure 597, edu 3584
+ - not exported to uncompressed file at part P2, measure 601, edu 2048
+ - not exported to uncompressed file at part P2, measure 601, edu 2048
+ - not exported to uncompressed file at part P2, measure 603, edu 1024
+ - not exported to uncompressed file at part P2, measure 604, edu 0
+ - not exported to uncompressed file at part P2, measure 618, edu 0
+ - not exported to uncompressed file at part P2, measure 627, edu 0
+ - not exported to uncompressed file at part P2, measure 632, edu 0
+ - not exported to uncompressed file at part P2, measure 641, edu 0
+ - not exported to uncompressed file at part P2, measure X71, edu 1536
+ - not exported to uncompressed file at part P2, measure 664, edu 2389
+ - not exported to uncompressed file at part P2, measure 686, edu 0
+ - not exported to uncompressed file at part P2, measure 701, edu 1536
+ - not exported to uncompressed file at part P2, measure 701, edu 2048
+ - not exported to uncompressed file at part P2, measure 717, edu 2048
+ - not exported to uncompressed file at part P2, measure 732, edu 2048
+ - not exported to uncompressed file at part P2, measure 747, edu 2048
+ - not exported to uncompressed file at part P2, measure 761, edu 0
+ - not exported to uncompressed file at part P2, measure 768, edu 1536
+ - not exported to uncompressed file at part P2, measure 772, edu 0
+ - not exported to uncompressed file at part P2, measure 776, edu 1365
+ - not exported to uncompressed file at part P2, measure 782, edu 1792
+ - not exported to uncompressed file at part P2, measure 782, edu 1792
+ - not exported to uncompressed file at part P2, measure 786, edu 3328
+ - not exported to uncompressed file at part P2, measure 789, edu 2560
+ - not exported to uncompressed file at part P2, measure 809, edu 2560
+ - not exported to uncompressed file at part P2, measure 831, edu 0
+ - not exported to uncompressed file at part P2, measure 838, edu 1536
+ - not exported to uncompressed file at part P2, measure 838, edu 1792
+ - not exported to uncompressed file at part P2, measure 842, edu 0
+ - not exported to uncompressed file at part P2, measure 858, edu 0
+ - not exported to uncompressed file at part P2, measure 880, edu 0
+ - not exported to uncompressed file at part P2, measure 880, edu 0
+
+Shape expression 96:
+ - not exported to uncompressed file at part P1, measure 560, edu 1536
+ - not exported to uncompressed file at part P1, measure 560, edu 6485
+ - not exported to uncompressed file at part P1, measure 562, edu 6485
+ - not exported to uncompressed file at part P1, measure 563, edu 1365
+ - not exported to uncompressed file at part P1, measure 563, edu 3413
+ - not exported to uncompressed file at part P1, measure 630, edu 2560
+ - not exported to uncompressed file at part P1, measure 644, edu 2560
+ - not exported to uncompressed file at part P1, measure X72, edu 0
+ - not exported to uncompressed file at part P1, measure X78, edu 0
+ - not exported to uncompressed file at part P1, measure X79, edu 0
+ - not exported to uncompressed file at part P1, measure 726, edu 0
+ - not exported to uncompressed file at part P1, measure X80, edu 0
+ - not exported to uncompressed file at part P1, measure 847, edu 0
+ - not exported to uncompressed file at part P2, measure 511, edu 1536
+ - not exported to uncompressed file at part P2, measure 519, edu 1024
+ - not exported to uncompressed file at part P2, measure 521, edu 0
+ - not exported to uncompressed file at part P2, measure 522, edu 0
+ - not exported to uncompressed file at part P2, measure 534, edu 0
+ - not exported to uncompressed file at part P2, measure 534, edu 0
+ - not exported to uncompressed file at part P2, measure X49, edu 2048
+ - not exported to uncompressed file at part P2, measure 559, edu 3072
+ - not exported to uncompressed file at part P2, measure 560, edu 512
+ - not exported to uncompressed file at part P2, measure 560, edu 512
+ - not exported to uncompressed file at part P2, measure 562, edu 0
+ - not exported to uncompressed file at part P2, measure 565, edu 512
+ - not exported to uncompressed file at part P2, measure 565, edu 2560
+ - not exported to uncompressed file at part P2, measure 565, edu 512
+ - not exported to uncompressed file at part P2, measure 565, edu 1536
+ - not exported to uncompressed file at part P2, measure 565, edu 2560
+ - not exported to uncompressed file at part P2, measure 579, edu 512
+ - not exported to uncompressed file at part P2, measure 579, edu 1536
+ - not exported to uncompressed file at part P2, measure 579, edu 2560
+ - not exported to uncompressed file at part P2, measure 616, edu 0
+ - not exported to uncompressed file at part P2, measure 617, edu 2048
+ - not exported to uncompressed file at part P2, measure 631, edu 2048
+ - not exported to uncompressed file at part P2, measure X72, edu 0
+ - not exported to uncompressed file at part P2, measure 664, edu 0
+ - not exported to uncompressed file at part P2, measure 673, edu 0
+ - not exported to uncompressed file at part P2, measure 679, edu 0
+ - not exported to uncompressed file at part P2, measure 679, edu 1024
+ - not exported to uncompressed file at part P2, measure 680, edu 2048
+ - not exported to uncompressed file at part P2, measure 775, edu 1024
+ - not exported to uncompressed file at part P2, measure 775, edu 0
+ - not exported to uncompressed file at part P2, measure 775, edu 1024
+ - not exported to uncompressed file at part P2, measure 779, edu 2048
+ - not exported to uncompressed file at part P2, measure 779, edu 1536
+ - not exported to uncompressed file at part P2, measure 781, edu 2560
+ - not exported to uncompressed file at part P2, measure 781, edu 2560
+ - not exported to uncompressed file at part P2, measure 782, edu 0
+ - not exported to uncompressed file at part P2, measure 782, edu 0
+ - not exported to uncompressed file at part P2, measure 795, edu 1024
+ - not exported to uncompressed file at part P2, measure 795, edu 0
+ - not exported to uncompressed file at part P2, measure 795, edu 1024
+ - not exported to uncompressed file at part P2, measure 799, edu 3584
+ - not exported to uncompressed file at part P2, measure 799, edu 1536
+ - not exported to uncompressed file at part P2, measure 799, edu 2048
+ - not exported to uncompressed file at part P2, measure 801, edu 2560
+ - not exported to uncompressed file at part P2, measure 801, edu 2560
+ - not exported to uncompressed file at part P2, measure 802, edu 0
+ - not exported to uncompressed file at part P2, measure 802, edu 0
+ - not exported to uncompressed file at part P2, measure 829, edu 1024
+ - not exported to uncompressed file at part P2, measure 842, edu 341
+ - not exported to uncompressed file at part P2, measure 842, edu 1365
+ - not exported to uncompressed file at part P2, measure 842, edu 2389
+ - not exported to uncompressed file at part P2, measure 847, edu 0
+ - not exported to uncompressed file at part P2, measure 851, edu 0
+ - not exported to uncompressed file at part P2, measure 857, edu 1024
+ - not exported to uncompressed file at part P2, measure 892, edu 1536
+
+Shape expression 97:
+ - not exported to uncompressed file at part P1, measure 560, edu 1536
+ - not exported to uncompressed file at part P1, measure 560, edu 6485
+ - not exported to uncompressed file at part P1, measure 562, edu 6485
+ - not exported to uncompressed file at part P1, measure 563, edu 1365
+ - not exported to uncompressed file at part P1, measure 563, edu 3413
+ - not exported to uncompressed file at part P1, measure 630, edu 2560
+ - not exported to uncompressed file at part P1, measure 644, edu 2560
+ - not exported to uncompressed file at part P1, measure X72, edu 0
+ - not exported to uncompressed file at part P1, measure X78, edu 0
+ - not exported to uncompressed file at part P1, measure X79, edu 0
+ - not exported to uncompressed file at part P1, measure 726, edu 0
+ - not exported to uncompressed file at part P1, measure X80, edu 0
+ - not exported to uncompressed file at part P1, measure 847, edu 0
+ - not exported to uncompressed file at part P2, measure 511, edu 1877
+ - not exported to uncompressed file at part P2, measure 519, edu 1707
+ - not exported to uncompressed file at part P2, measure 521, edu 683
+ - not exported to uncompressed file at part P2, measure 522, edu 683
+ - not exported to uncompressed file at part P2, measure 534, edu 0
+ - not exported to uncompressed file at part P2, measure 534, edu 0
+ - not exported to uncompressed file at part P2, measure X49, edu 2731
+ - not exported to uncompressed file at part P2, measure 559, edu 3072
+ - not exported to uncompressed file at part P2, measure 560, edu 512
+ - not exported to uncompressed file at part P2, measure 560, edu 512
+ - not exported to uncompressed file at part P2, measure 562, edu 0
+ - not exported to uncompressed file at part P2, measure 565, edu 512
+ - not exported to uncompressed file at part P2, measure 565, edu 2560
+ - not exported to uncompressed file at part P2, measure 565, edu 512
+ - not exported to uncompressed file at part P2, measure 565, edu 1536
+ - not exported to uncompressed file at part P2, measure 565, edu 2560
+ - not exported to uncompressed file at part P2, measure 579, edu 512
+ - not exported to uncompressed file at part P2, measure 579, edu 1536
+ - not exported to uncompressed file at part P2, measure 579, edu 2560
+ - not exported to uncompressed file at part P2, measure 616, edu 0
+ - not exported to uncompressed file at part P2, measure 617, edu 2731
+ - not exported to uncompressed file at part P2, measure 631, edu 2731
+ - not exported to uncompressed file at part P2, measure X72, edu 0
+ - not exported to uncompressed file at part P2, measure 664, edu 683
+ - not exported to uncompressed file at part P2, measure 673, edu 853
+ - not exported to uncompressed file at part P2, measure 679, edu 853
+ - not exported to uncompressed file at part P2, measure 679, edu 1877
+ - not exported to uncompressed file at part P2, measure 680, edu 2048
+ - not exported to uncompressed file at part P2, measure 775, edu 1707
+ - not exported to uncompressed file at part P2, measure 775, edu 683
+ - not exported to uncompressed file at part P2, measure 775, edu 1707
+ - not exported to uncompressed file at part P2, measure 779, edu 2731
+ - not exported to uncompressed file at part P2, measure 779, edu 1536
+ - not exported to uncompressed file at part P2, measure 781, edu 2560
+ - not exported to uncompressed file at part P2, measure 781, edu 2560
+ - not exported to uncompressed file at part P2, measure 782, edu 683
+ - not exported to uncompressed file at part P2, measure 782, edu 683
+ - not exported to uncompressed file at part P2, measure 795, edu 1707
+ - not exported to uncompressed file at part P2, measure 795, edu 683
+ - not exported to uncompressed file at part P2, measure 795, edu 1707
+ - not exported to uncompressed file at part P2, measure 799, edu 4608
+ - not exported to uncompressed file at part P2, measure 799, edu 1536
+ - not exported to uncompressed file at part P2, measure 799, edu 2731
+ - not exported to uncompressed file at part P2, measure 801, edu 2560
+ - not exported to uncompressed file at part P2, measure 801, edu 2560
+ - not exported to uncompressed file at part P2, measure 802, edu 683
+ - not exported to uncompressed file at part P2, measure 802, edu 683
+ - not exported to uncompressed file at part P2, measure 829, edu 1707
+ - not exported to uncompressed file at part P2, measure 842, edu 341
+ - not exported to uncompressed file at part P2, measure 842, edu 1365
+ - not exported to uncompressed file at part P2, measure 842, edu 2389
+ - not exported to uncompressed file at part P2, measure 847, edu 0
+ - not exported to uncompressed file at part P2, measure 851, edu 683
+ - not exported to uncompressed file at part P2, measure 857, edu 1024
+ - not exported to uncompressed file at part P2, measure 892, edu 1536
+
+Shape expression 98:
+ - not exported to uncompressed file at part P1, measure 861, edu 0
+ - not exported to uncompressed file at part P1, measure 883, edu 0
+ - not exported to uncompressed file at part P2, measure 517, edu 0
+ - not exported to uncompressed file at part P2, measure 540, edu 2304
+ - not exported to uncompressed file at part P2, measure 551, edu 2304
+ - not exported to uncompressed file at part P2, measure 684, edu 0
+ - not exported to uncompressed file at part P2, measure 686, edu 0
+ - not exported to uncompressed file at part P2, measure 696, edu 2560
+ - not exported to uncompressed file at part P2, measure 701, edu 0
+ - not exported to uncompressed file at part P2, measure 704, edu 0
+ - not exported to uncompressed file at part P2, measure 720, edu 0
+ - not exported to uncompressed file at part P2, measure 735, edu 0
+ - not exported to uncompressed file at part P2, measure 750, edu 0
+ - not exported to uncompressed file at part P2, measure 789, edu 2560
+ - not exported to uncompressed file at part P2, measure 831, edu 3584
+ - not exported to uncompressed file at part P2, measure 833, edu 0
+ - not exported to uncompressed file at part P2, measure 834, edu 1792
+ - not exported to uncompressed file at part P2, measure 848, edu 1536
+ - not exported to uncompressed file at part P2, measure 858, edu 0
+
+Shape expression 100:
+ - not exported to uncompressed file at part P2, measure X45, edu 2048
+
+Shape expression 101:
+ - not exported to uncompressed file at part P1, measure 490, edu 1024
+
+Shape expression 102:
+ - not exported to uncompressed file at part P2, measure X43, edu 0
+
+Shape expression 103:
+ - not exported to uncompressed file at part P1, measure 28, edu 1024
+ - not exported to uncompressed file at part P1, measure 502, edu 1024
+
+Shape expression 104:
+ - not exported to uncompressed file at part P2, measure 505, edu 0
+
+Shape expression 105:
+ - not exported to uncompressed file at part P1, measure 512, edu 2048
+ - not exported to uncompressed file at part P1, measure 767, edu 2048
+ - not exported to uncompressed file at part P2, measure 512, edu 2048
+ - not exported to uncompressed file at part P2, measure 512, edu 2048
+ - not exported to uncompressed file at part P2, measure 767, edu 2048
+ - not exported to uncompressed file at part P2, measure 767, edu 2048
+
+Shape expression 106:
+ - not exported to uncompressed file at part P1, measure 513, edu 0
+ - not exported to uncompressed file at part P1, measure X68, edu 0
+ - not exported to uncompressed file at part P1, measure 631, edu 0
+ - not exported to uncompressed file at part P1, measure 639, edu 0
+ - not exported to uncompressed file at part P1, measure 643, edu 0
+ - not exported to uncompressed file at part P1, measure 644, edu 0
+ - not exported to uncompressed file at part P1, measure 768, edu 0
+ - not exported to uncompressed file at part P2, measure 513, edu 0
+ - not exported to uncompressed file at part P2, measure 513, edu 0
+ - not exported to uncompressed file at part P2, measure X68, edu 0
+ - not exported to uncompressed file at part P2, measure X68, edu 0
+ - not exported to uncompressed file at part P2, measure 631, edu 0
+ - not exported to uncompressed file at part P2, measure 631, edu 0
+ - not exported to uncompressed file at part P2, measure 768, edu 0
+ - not exported to uncompressed file at part P2, measure 768, edu 0
+
+Shape expression 107:
+ - not exported to uncompressed file at part P2, measure 516, edu 256
+
+Shape expression 108:
+ - not exported to uncompressed file at part P2, measure 545, edu 1024
+ - not exported to uncompressed file at part P2, measure X50, edu 4096
+
+Shape expression 109:
+ - not exported to uncompressed file at part P2, measure 561, edu 5120
+
+Shape expression 110:
+ - not exported to uncompressed file at part P2, measure 562, edu 0
+
+Shape expression 111:
+ - not exported to uncompressed file at part P2, measure 562, edu 0
+
+Shape expression 112:
+ - not exported to uncompressed file at part P2, measure 563, edu 1024
+
+Shape expression 113:
+ - not exported to uncompressed file at part P1, measure 569, edu 1024
+
+Shape expression 114:
+ - not exported to uncompressed file at part P2, measure 576, edu 1024
+
+Shape expression 115:
+ - not exported to uncompressed file at part P2, measure X57, edu 1024
+
+Shape expression 116:
+ - not exported to uncompressed file at part P1, measure X63, edu 1024
+
+Shape expression 117:
+ - not exported to uncompressed file at part P2, measure 621, edu 0
+ - not exported to uncompressed file at part P2, measure 621, edu 0
+ - not exported to uncompressed file at part P2, measure 622, edu 0
+ - not exported to uncompressed file at part P2, measure 625, edu 0
+ - not exported to uncompressed file at part P2, measure 625, edu 0
+ - not exported to uncompressed file at part P2, measure 635, edu 0
+ - not exported to uncompressed file at part P2, measure 635, edu 0
+ - not exported to uncompressed file at part P2, measure 636, edu 0
+ - not exported to uncompressed file at part P2, measure 639, edu 0
+ - not exported to uncompressed file at part P2, measure 639, edu 0
+
+Shape expression 118:
+ - not exported to uncompressed file at part P1, measure 625, edu 0
+ - not exported to uncompressed file at part P1, measure 639, edu 0
+
+Shape expression 119:
+ - not exported to uncompressed file at part P2, measure 626, edu 0
+ - not exported to uncompressed file at part P2, measure 626, edu 1024
+ - not exported to uncompressed file at part P2, measure 626, edu 2048
+ - not exported to uncompressed file at part P2, measure 640, edu 0
+ - not exported to uncompressed file at part P2, measure 640, edu 2048
+
+Shape expression 120:
+ - not exported to uncompressed file at part P2, measure 648, edu 1536
+
+Shape expression 121:
+ - not exported to uncompressed file at part P2, measure 649, edu 0
+
+Shape expression 122:
+ - not exported to uncompressed file at part P2, measure X72, edu 0
+
+Shape expression 123:
+ - not exported to uncompressed file at part P2, measure 671, edu 2048
+
+Shape expression 124:
+ - not exported to uncompressed file at part P2, measure 671, edu 1536
+
+Shape expression 125:
+ - not exported to uncompressed file at part P1, measure 764, edu 2048
+ - not exported to uncompressed file at part P2, measure 671, edu 2560
+ - not exported to uncompressed file at part P2, measure X80, edu 1536
+ - not exported to uncompressed file at part P2, measure 728, edu 2048
+
+Shape expression 126:
+ - not exported to uncompressed file at part P2, measure 671, edu 1920
+
+Shape expression 127:
+ - not exported to uncompressed file at part P2, measure 680, edu 1536
+
+Shape expression 128:
+ - not exported to uncompressed file at part P2, measure 685, edu 1024
+ - not exported to uncompressed file at part P2, measure 685, edu 1024
+ - not exported to uncompressed file at part P2, measure 685, edu 1024
+ - not exported to uncompressed file at part P2, measure 735, edu 512
+ - not exported to uncompressed file at part P2, measure 782, edu 0
+
+Shape expression 129:
+ - not exported to uncompressed file at part P2, measure 691, edu 1024
+
+Shape expression 130:
+ - not exported to uncompressed file at part P2, measure 692, edu 0
+
+Shape expression 131:
+ - not exported to uncompressed file at part P2, measure 694, edu 2253
+
+Shape expression 132:
+ - not exported to uncompressed file at part P2, measure 658, edu 0
+
+Shape expression 133:
+ - not exported to uncompressed file at part P1, measure 722, edu 0
+
+Shape expression 134:
+ - not exported to uncompressed file at part P2, measure 724, edu 2048
+
+Shape expression 136:
+ - not exported to uncompressed file at part P2, measure 731, edu 1024
+
+Shape expression 137:
+ - not exported to uncompressed file at part P2, measure 732, edu 0
+
+Shape expression 138:
+ - not exported to uncompressed file at part P2, measure 735, edu 0
+ - not exported to uncompressed file at part P2, measure 750, edu 0
+
+Shape expression 140:
+ - not exported to uncompressed file at part P2, measure 746, edu 1024
+
+Shape expression 141:
+ - not exported to uncompressed file at part P2, measure 747, edu 0
+
+Shape expression 142:
+ - not exported to uncompressed file at part P2, measure 748, edu 512
+
+Shape expression 143:
+ - not exported to uncompressed file at part P1, measure 754, edu 1024
+
+Shape expression 144:
+ - not exported to uncompressed file at part P1, measure 777, edu 512
+ - not exported to uncompressed file at part P1, measure 778, edu 0
+ - not exported to uncompressed file at part P2, measure 775, edu 341
+ - not exported to uncompressed file at part P2, measure 777, edu 1707
+ - not exported to uncompressed file at part P2, measure 780, edu 2048
+ - not exported to uncompressed file at part P2, measure 795, edu 341
+
+Shape expression 145:
+ - not exported to uncompressed file at part P1, measure 777, edu 1536
+ - not exported to uncompressed file at part P1, measure 778, edu 1536
+ - not exported to uncompressed file at part P2, measure 775, edu 1024
+ - not exported to uncompressed file at part P2, measure 777, edu 2560
+ - not exported to uncompressed file at part P2, measure 780, edu 2560
+ - not exported to uncompressed file at part P2, measure 795, edu 1024
+
+Shape expression 146:
+ - not exported to uncompressed file at part P2, measure 780, edu 1280
+
+Shape expression 147:
+ - not exported to uncompressed file at part P2, measure 788, edu 0
+
+Shape expression 148:
+ - not exported to uncompressed file at part P2, measure 788, edu 2560
+
+Shape expression 149:
+ - not exported to uncompressed file at part P2, measure 808, edu 2560
+
+Shape expression 150:
+ - not exported to uncompressed file at part P2, measure 808, edu 0
+
+Shape expression 151:
+ - not exported to uncompressed file at part P2, measure 819, edu 1536
+
+Shape expression 152:
+ - not exported to uncompressed file at part P1, measure 30, edu 0
+ - not exported to uncompressed file at part P1, measure 827, edu 0
+ - not exported to uncompressed file at part P1, measure 835, edu 0
+
+Shape expression 153:
+ - not exported to uncompressed file at part P2, measure 835, edu 0
+
+Shape expression 154:
+ - not exported to uncompressed file at part P2, measure 839, edu 2304
+
+Shape expression 155:
+ - not exported to uncompressed file at part P1, measure 840, edu 0
+
+Shape expression 156:
+ - not exported to uncompressed file at part P2, measure 865, edu 683
+
+Shape expression 157:
+ - not exported to uncompressed file at part P1, measure 901, edu 0
+
+Shape expression 158:
+ - not exported to uncompressed file at part P2, measure 905, edu 2048
+
+Shape expression 160:
+ - not exported to uncompressed file at part P1, measure 7, edu 0
+
+Unknown beam extension:
+ - at entry 7514 in part P1, measure 308
+ - at entry 7532 in part P1, measure 309
+ - at entry 8417 in part P1, measure 343
+ - at entry 8469 in part P1, measure 344
+ - at entry 8497 in part P1, measure 345
+ - at entry 8528 in part P1, measure 346
+ - at entry 8662 in part P1, measure 350
+ - at entry 8693 in part P1, measure 351
+ - at entry 650 in part P2, measure 7
+ - at entry 929 in part P2, measure 16
+ - at entry 957 in part P2, measure 17
+ - at entry 960 in part P2, measure 17
+ - at entry 976 in part P2, measure 18
+ - at entry 2496 in part P2, measure X13
+ - at entry 5651 in part P2, measure 210
+ - at entry 5684 in part P2, measure 213
+ - at entry 6411 in part P2, measure 252
+ - at entry 6426 in part P2, measure 253
+ - at entry 6499 in part P2, measure 256
+ - at entry 6517 in part P2, measure 257
+ - at entry 6645 in part P2, measure 262
+ - at entry 6661 in part P2, measure 263
+ - at entry 7175 in part P2, measure 295
+ - at entry 7447 in part P2, measure 305
+ - at entry 7672 in part P2, measure 317
+ - at entry 7719 in part P2, measure 318
+ - at entry 7740 in part P2, measure 319
+ - at entry 7989 in part P2, measure 329
+ - at entry 7997 in part P2, measure 329
+ - at entry 8023 in part P2, measure 330
+ - at entry 8029 in part P2, measure 330
+ - at entry 8036 in part P2, measure 330
+ - at entry 8054 in part P2, measure 331
+ - at entry 8064 in part P2, measure 331
+ - at entry 8120 in part P2, measure 333
+ - at entry 8142 in part P2, measure 334
+ - at entry 8149 in part P2, measure 334
+ - at entry 8202 in part P2, measure 336
+ - at entry 8233 in part P2, measure 337
+ - at entry 8248 in part P2, measure 337
+ - at entry 8291 in part P2, measure 338
+ - at entry 8306 in part P2, measure 339
+ - at entry 8322 in part P2, measure 339
+ - at entry 8343 in part P2, measure 340
+ - at entry 8351 in part P2, measure 340
+ - at entry 8361 in part P2, measure 340
+ - at entry 8404 in part P2, measure 342
+ - at entry 8427 in part P2, measure 343
+ - at entry 8436 in part P2, measure 343
+ - at entry 8442 in part P2, measure 343
+ - at entry 8453 in part P2, measure 343
+ - at entry 8488 in part P2, measure 344
+ - at entry 8508 in part P2, measure 345
+ - at entry 8791 in part P2, measure 346
+ - at entry 8567 in part P2, measure 347
+ - at entry 8678 in part P2, measure 350
+ - at entry 8700 in part P2, measure 351
+ - at entry 8702 in part P2, measure 351
+ - at entry 9415 in part P2, measure 378
+ - at entry 9420 in part P2, measure 378
+ - at entry 9426 in part P2, measure 379
+ - at entry 9431 in part P2, measure 379
+ - at entry 9477 in part P2, measure 382
+ - at entry 9479 in part P2, measure 383
+ - at entry 9480 in part P2, measure 383
+ - at entry 12782 in part P2, measure 565
+ - at entry 13237 in part P2, measure 577
+ - at entry 14147 in part P2, measure 606
+ - at entry 16121 in part P2, measure 676
+
